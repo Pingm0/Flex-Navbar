@@ -1,0 +1,35 @@
+.nav {
+    background-color: darkgrey;
+    display: flex;
+    justify-content: space-between;
+    padding: 15px;
+    color: white;
+    align-items: center;
+    font-family: 'Roboto', sans-serif;
+}
+.nav-links {
+    display: flex;
+    margin-left: 10px;
+    align-items: center;
+    
+}
+
+.nav-links li {
+    margin-right: 25px;
+    list-style-type:none ;
+
+}
+
+.nav-links a {
+    text-decoration: none;
+    color: white;
+}
+
+.btn {
+    color: white;
+    background-color: turquoise;
+    border: 2px solid black;
+    padding: 5px 10px;
+    box-shadow: 5px 5px 5px black;
+
+}
